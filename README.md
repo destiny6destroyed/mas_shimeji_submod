@@ -11,4 +11,11 @@
 
     (If you only want one shimeji version, delete the folder of the version you don't desire)
 
+# Instruction
+- Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/destiny6destroyed/mas_shimeji_submod/releases)), then click on the latest version of "Shimeji Submod". To download click on Room.Selection.Pack.zip to begin.
+
+- Unzip and open the folder called 'Room.Selection.Pack' (it should be in your 'Downloads' folder).
+
+- From the Room.Selection.Pack folder, copy the 'game' and 'lib' folders into the main 'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
+
     
