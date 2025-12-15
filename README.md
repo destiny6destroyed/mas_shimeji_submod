@@ -7,7 +7,7 @@
 - Two versions:
   - Shimeji 2D: It belongs to Childish-N (https://www.deviantart.com/childish-n/art/DDLC-Shimeji-Pack-718209813)
   - Shimeji 3D: It does belong to me and I want to keep updating it
-    <img width="640" height="458" alt="image" src="https://github.com/user-attachments/assets/ac6bcc3a-ad06-4308-af6c-fa9c4f83da18" />
+    <img width="640" height="458" alt="image" src="https://github.com/user-attachments/assets/f4d94919-44e4-4a16-9f19-b3d521dd9c7d" />
 
     (If you only want one shimeji version, delete the folder of the version you don't desire)
 
