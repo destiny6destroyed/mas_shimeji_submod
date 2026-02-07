@@ -11,7 +11,7 @@
 
     (If you only want one shimeji version, delete the folder of the version you don't desire)
 
-#Requirements
+# Requirements
 To make it work, you need to download one of the following files, depending of your OS:
 - Windows: https://drive.google.com/file/d/1kRxBJuqtpRnCHRU-eThEr9K3ATEX2IY4/view?usp=sharing
 - Linux: https://drive.google.com/file/d/1MT9RtfIXur8glpJ_jHlgi-wQ5vywU7Lc/view?usp=sharing (Also, you need to check you have Java installed with 'java --version' in the terminal)
