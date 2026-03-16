@@ -15,6 +15,7 @@
 To make it work, you need to download one of the following files, depending of your OS:
 - Windows: https://drive.google.com/file/d/1kRxBJuqtpRnCHRU-eThEr9K3ATEX2IY4/view?usp=sharing
 - Linux: https://drive.google.com/file/d/1MT9RtfIXur8glpJ_jHlgi-wQ5vywU7Lc/view?usp=sharing (Also, you need to check you have Java installed with 'java --version' in the terminal)
+- Check that the Shimeji folder is saved in: game\submods
 
 # Instruction
 - Go to the "Releases" tab on the right this webpage (or click [HERE](https://github.com/destiny6destroyed/mas_shimeji_submod/releases)), then click on the latest version of "Shimeji Submod". To download click on Shimeji_Submod.zip to begin.
