@@ -22,9 +22,9 @@ To make it work, you need to download one of the following files, depending of y
 
 - Unzip and open both folders (they should be in your 'Downloads' folder).
 
-- Open both extracted folders (the Shimeji-windows/linux files and the Shimeji_Submod contents).
+- Open both extracted folders (the Shimeji-windows/linux files and the Shimeji_Submod contents, the second one is the main one).
 
-- Drag the Shimeji_Submod folder into the main Shimeji folder and, when Windows asks whether to replace or merge files, click "Replace the files in the destination" (without this step, you won't be able to make the submod work).
+- Drag the Shimeji_Submod folder inside Shimeji-windows/linux folder into the main Shimeji folder and merge the folders into one (without this step, you won't be able to make the submod work).
 
 - Copy the 'game' folder into the main 'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
 
