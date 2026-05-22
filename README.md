@@ -28,4 +28,9 @@ To make it work, you need to download one of the following files, depending of y
 
 - Copy the 'game' folder into the main 'Doki Doki Literature Club' folder (AKA, the folder where you see 'DDLC.exe').
 
+# If Instruction is confusing, here is a Video Tutorial
+https://github.com/user-attachments/assets/1c947815-daac-421f-967f-2efa5fe375c5
+
+
+
     
